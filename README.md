@@ -27,7 +27,7 @@ Lupa.mostrarCompleto(instancia);
 ## Pruebas
 He probado estos métodos con clases planas, es decir, con solo getters y setters, con clases con herencia y con interfaces y he obtenido resultados satisfactorios.
 
-![Captura 1](/imagenes/capturas/lupa_1.png)
+![Captura 1](/imagenes/lupa_1.png)
 
 ## Contribuciones
 Como se pueden imaginar este proyecto esta recién saliendo a la luz y aun no tiene un futuro claro por lo que por ahora no se aceptaran pull request. Mas adelante tal vez establezca algunas reglas y una dirección y entonces eso podría cambiar.
